@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Roboto|Thasadith');
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.6em;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1em;
+}
+
+ol{
+  position: relative;
+  max-width: 50vw;
+  margin: 0px auto;
+  text-align: justify;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.footer{
+  text-align: left;
+  background-color: black;
+  color: white;
+  padding: 16px;
+  margin-top: 48px;
+}
+.credit{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 24px;
+}
+.author{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 36px;
+}
